@@ -30,9 +30,13 @@ I enjoy working on challenging projects that require creative problem-solving an
 ![stats](https://github-readme-stats.vercel.app/api?username=Court534&show_icons=true&&count_private=true&include_all_commits=true)
 
 ##
+### Technologies I am familiar with:
+<p align="left"> 
+![DS_Icons](https://user-images.githubusercontent.com/76811877/233395516-f93ef389-dd2f-4b69-ba89-cd2ec6ece8e2.png)
+
+
 ### Connect with me:
 
 <a href="https://uk.linkedin.com/in/hon-fai-chow-10000918b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="courtney-stow-178b8696" height="40" width="40" /></a>
 
 ![LinkedIn Software   Data Engineering](https://user-images.githubusercontent.com/85391216/221840948-ce6c53c9-567f-4d8d-9feb-be55359de81e.png)
-(https://ansonchf.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Faf3495f6-6608-4dba-81bc-48f0664d82a1%2FDS_Icons.png?id=11e22ec6-422e-4bf0-a6c7-51338f32ff0c&table=block&spaceId=83aa567f-4a47-4c62-86d4-35825667f056&width=2000&userId=&cache=v2)
