@@ -38,6 +38,11 @@ I enjoy working on challenging projects that require creative problem-solving an
 | **[Shooter-X][3]**           | 2D Top-down shooter game   
 | **[Acebook-Pizza][4]**       | Social media site      
 
+[1]:https://github.com/Court534/travel-advisor
+[2]:https://github.com/Court534/Rails-Friends
+[3]:https://github.com/Court534/Multiplayer-Game
+[4]:https://github.com/Court534/Acebook-Pizza
+
 ### Technologies I am familiar with:
 ![DS_Icons](https://user-images.githubusercontent.com/76811877/233395516-f93ef389-dd2f-4b69-ba89-cd2ec6ece8e2.png)
 
