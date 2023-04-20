@@ -1,4 +1,4 @@
-### Hi there, I'm Anson 👋
+### Hi there, I'm [Anson](https://www.ansonchf.notion.site/ansonchf/Hon-Fai-Chow-Anson-b883669e0a0f4a79b84021ac6a880341) 👋
 
 - 🌱  Graduated from the [Le Wagon Data Science](https://www.lewagon.com/data-science-course) bootcamp (Sep2022 Cohort)
 - 🔭  I’m currently working as a Date Engineer at [Xander Talent](https://www.xandertalent.com/)
