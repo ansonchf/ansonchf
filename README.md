@@ -29,6 +29,15 @@ I enjoy working on challenging projects that require creative problem-solving an
 ![stats](https://github-readme-stats.vercel.app/api?username=Court534&show_icons=true&&count_private=true&include_all_commits=true)
 
 ##
+### <a name="projects">Projects</a>
+
+| Name                         | Description                     | Tech/tools                                                        |
+| -----------------------------| ------------------------        | ----------------------
+| **[Travel_Advisor][1]**      | Site to find things to do or places to eat/drink      | JavaScript, React, CSS, HTML, RapidAPI
+| **[Rails-Friends][2]**       | Friends information organiser   | HTML, CSS, Ruby, Ruby on Rails, Bootstrap
+| **[Shooter-X][3]**               | 2D Top-down shooter game     | C#, Unity, Unity Assets  
+| **[Acebook-Pizza][4]**       | Social media site               | Rails, HTML, CSS, Bootstrap, Rspec   
+
 ### Technologies I am familiar with:
 ![DS_Icons](https://user-images.githubusercontent.com/76811877/233395516-f93ef389-dd2f-4b69-ba89-cd2ec6ece8e2.png)
 
