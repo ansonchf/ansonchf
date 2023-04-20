@@ -5,6 +5,7 @@
 - 🥅  2023 Goals: Maximise my learning, contribute to new projects
 - ⚡  Fun facts: I enjoy playing Badminto 🏸 playing different types of chess, mainly Chinese chess♟️ playing video games 🎮
 
+<br/><br/>
 
 After graduating from the University of Glasgow with a degree in Financial Technology, specializing in Data Analytics and AI & ML learning, I was able to develop many hard and soft skills as a consumer insight analyst for a little over half a year. I then took a new step in my career and recently graduated from the Data Science Bootcamp in Le Wagon. As of March 2023 I started my journey as a Data Engineering Consultant. 
 
