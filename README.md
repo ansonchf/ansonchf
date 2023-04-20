@@ -33,13 +33,13 @@ I enjoy working on challenging projects that require creative problem-solving an
 
 | Name                         | Description                     
 | -----------------------------| ------------------------       
-| **[Travel_Advisor][1]**      | Site to find things to do or places to eat/drink    
-| **[Rails-Friends][2]**       | Friends information organiser  
+| **[Divvy Bike][1]**                   | A Web app that predicts the availability of share bikes at each station to help the user to find the nearest locations   
+| **[Data Analytics- Stock Price][2]**  | Investigating the Relationship between the Price-Earnings Ratio, Price-To-Book Ratio, Dividend Yield, Earnings per share, Payout ratio and Stock Price of Nifty 500 Index – Evidence from Indian Stock Market
 | **[Shooter-X][3]**           | 2D Top-down shooter game   
 | **[Acebook-Pizza][4]**       | Social media site      
 
-[1]:https://github.com/Court534/travel-advisor
-[2]:https://github.com/Court534/Rails-Friends
+[1]:https://github.com/ansonchf/DIVVY_BIKE
+[2]:https://github.com/ansonchf/Data-Analytics-Stock-Price
 [3]:https://github.com/Court534/Multiplayer-Game
 [4]:https://github.com/Court534/Acebook-Pizza
 
