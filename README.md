@@ -3,7 +3,7 @@
 - 🌱  Graduated from the [Le Wagon Data Science](https://www.lewagon.com/data-science-course) bootcamp (Sep2022 Cohort)
 - 🔭  I’m currently working as a Date Engineer at [Xander Talent](https://www.xandertalent.com/)
 - 🥅  2023 Goals: Maximise my learning, contribute to new projects
-- ⚡  Fun facts: I enjoy playing Badminto 🏸 playing different types of chess, mainly Chinese chess♟️ playing video games 🎮
+- ⚡  Fun facts: I enjoy playing Badminton 🏸 playing different types of chess, mainly Chinese chess♟️ playing video games 🎮
 
 <br/>
 
@@ -16,10 +16,9 @@ I enjoy working on challenging projects that require creative problem-solving an
 <br/>
 
 💬 Self learning resources I would recommend 
-- [freeCodeCamp](https://www.freecodecamp.org/learn/)
 - [Codecademy](https://www.codecademy.com)
 - [HackerRank](https://www.hackerrank.com/dashboard)
-
+- [DataCamp](https://www.datacamp.com/)
 
 ##
 <br/>
