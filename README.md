@@ -29,6 +29,7 @@ I enjoy working on challenging projects that require creative problem-solving an
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Court534&show_icons=true&&count_private=true&include_all_commits=true)
 
+##
 ### Connect with me:
 
 <a href="https://uk.linkedin.com/in/hon-fai-chow-10000918b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="courtney-stow-178b8696" height="40" width="40" /></a>
