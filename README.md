@@ -38,4 +38,5 @@ I enjoy working on challenging projects that require creative problem-solving an
 
 <a href="https://uk.linkedin.com/in/hon-fai-chow-10000918b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="courtney-stow-178b8696" height="40" width="40" /></a>
 
-![LinkedIn Software   Data Engineering](https://user-images.githubusercontent.com/85391216/221840948-ce6c53c9-567f-4d8d-9feb-be55359de81e.png)
+![LinkedIn Data](https://user-images.githubusercontent.com/76811877/233396909-809f5580-0bf7-4072-8bb3-7d1633e5fe14.png)
+
