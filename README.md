@@ -31,9 +31,9 @@ I enjoy working on challenging projects that require creative problem-solving an
 ##
 ### <a name="projects">Projects</a>
 
-| Name                         | Description                     
-| -----------------------------| ------------------------       
-| **[Divvy Bike][1]**                            | A Web app that predicts the availability of share bikes at each station to help the user to find the nearest locations   
+| Name                         | Description              | Tech/tools          
+| -----------------------------| ------------------------ | ----------------------      
+| **[Divvy Bike][1]**                            | A Web app that predicts the availability of share bikes at each station to help the user to find the nearest locations   | Tpot, XGBoost Regressor, Decision Tree Regressor, Streamlit
 | **[Data Analytics- Stock Price][2]**           | Investigating the Relationship between the Price-Earnings Ratio, Price-To-Book Ratio, Dividend Yield, Earnings per share, Payout ratio and Stock Price of Nifty 500 Index – Evidence from Indian Stock Market
 | **[Financial Information Retrieval (NLP)][3]** | Investigate the British newspaper content, social media, and website content and derive the Opposition’s political strategy employed during the crisis 
 | **[Web scraping- Property sites][4]**          | Web scraping from Zoopla and Rightmove to retrieve information    
