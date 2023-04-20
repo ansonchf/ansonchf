@@ -31,7 +31,6 @@ I enjoy working on challenging projects that require creative problem-solving an
 
 ##
 ### Technologies I am familiar with:
-<p align="left"> 
 ![DS_Icons](https://user-images.githubusercontent.com/76811877/233395516-f93ef389-dd2f-4b69-ba89-cd2ec6ece8e2.png)
 
 
