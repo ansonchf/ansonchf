@@ -33,11 +33,11 @@ I enjoy working on challenging projects that require creative problem-solving an
 
 | Name                         | Description              | Tech/tools          
 | -----------------------------| ------------------------ | ----------------------      
-| **[House-Price-Prediction][5]**          | predict house prices using Advanced Regression Techniques, Kaggle Competition  |   Data Cleaning, Feature Engineering, Model Selection & Evaluation, Hyperparameter Optimization, Ensembling Models, and Neural Network
+| **[House Price Prediction][5]**          | predict house prices using Advanced Regression Techniques, Kaggle Competition  |   Data Cleaning, Feature Engineering, Model Selection & Evaluation, Hyperparameter Optimization, Ensembling Models, and Neural Network
 | **[Divvy Bike][1]**                            | A Web app that predicts the availability of share bikes at each station to help the user to find the nearest locations   | Tpot, XGBoost Regressor, Decision Tree Regressor, Streamlit
-| **[Data Analytics- Stock Price][2]**           | Investigating the Relationship between the Price-Earnings Ratio, Price-To-Book Ratio, Dividend Yield, Earnings per share, Payout ratio and Stock Price of Nifty 500 Index – Evidence from Indian Stock Market      | Correlation Analysis, OLS regression, Bayesian Linear Regression
+| **[Stock Price Data Analytics][2]**           | Investigating the Relationship between the Price-Earnings Ratio, Price-To-Book Ratio, Dividend Yield, Earnings per share, Payout ratio and Stock Price of Nifty 500 Index – Evidence from Indian Stock Market      | Correlation Analysis, OLS regression, Bayesian Linear Regression
 | **[Financial Information Retrieval (NLP)][3]** | Investigate the British newspaper content, social media, and website content and derive the Opposition’s political strategy employed during the crisis |  Data Processing, Natural Language Processing (NLP), Sentiment Analysis
-| **[Web scraping- Property sites][4]**          | Web scraping from Zoopla and Rightmove to retrieve information  |   Web Scraping- requests and Beautiful Soup
+| **[Web scraping Property sites][4]**          | Web scraping from Zoopla and Rightmove to retrieve information  |   Web Scraping- requests and Beautiful Soup
 
 [1]:https://github.com/ansonchf/DIVVY_BIKE
 [2]:https://github.com/ansonchf/Data-Analytics-Stock-Price
