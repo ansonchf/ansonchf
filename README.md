@@ -37,12 +37,13 @@ I enjoy working on challenging projects that require creative problem-solving an
 | **[Data Analytics- Stock Price][2]**           | Investigating the Relationship between the Price-Earnings Ratio, Price-To-Book Ratio, Dividend Yield, Earnings per share, Payout ratio and Stock Price of Nifty 500 Index – Evidence from Indian Stock Market      | Correlation Analysis, OLS regression, Bayesian Linear Regression
 | **[Financial Information Retrieval (NLP)][3]** | Investigate the British newspaper content, social media, and website content and derive the Opposition’s political strategy employed during the crisis |  Data Processing, Natural Language Processing (NLP), Sentiment Analysis
 | **[Web scraping- Property sites][4]**          | Web scraping from Zoopla and Rightmove to retrieve information  |   Web Scraping- requests and Beautiful Soup
-| **[House-Price-Prediction][5]**          | predict house prices using Advanced Regression Techniques, Kaggle Competition  |   Exploratory Data Analysis, Data Cleaning, Feature Engineering &Transformations & Selection, Preprocessor pipeline, Target Transformation, Model Selection & Evaluation, Hyperparameter Optimization, Ensembling Models, and Neural Network
+| **[House-Price-Prediction][5]**          | predict house prices using Advanced Regression Techniques, Kaggle Competition  |   Data Cleaning, Feature Engineering, Model Selection & Evaluation, Hyperparameter Optimization, Ensembling Models, and Neural Network
 
 [1]:https://github.com/ansonchf/DIVVY_BIKE
 [2]:https://github.com/ansonchf/Data-Analytics-Stock-Price
 [3]:https://github.com/ansonchf/Information-Retrieval-Natural-Language-Processing-NLP-
 [4]:https://github.com/ansonchf/Webcrawler_property
+[5]:https://github.com/ansonchf/House-Price-Prediction
 
 ### Technologies I am familiar with:
 ![DS_Icons](https://user-images.githubusercontent.com/76811877/233395516-f93ef389-dd2f-4b69-ba89-cd2ec6ece8e2.png)
