@@ -23,7 +23,7 @@ I enjoy working on challenging projects that require creative problem-solving an
 ##
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansonchf&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansonchf&layout=compact)
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=ansonchf&show_icons=true&&count_private=true&include_all_commits=true)
