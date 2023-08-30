@@ -1,6 +1,6 @@
 ### Hi there, I'm [Anson](https://www.notion.so/Hon-Fai-Chow-Anson-b883669e0a0f4a79b84021ac6a880341) 👋
 
-- 🌱  Graduated from the [Le Wagon Data Science bootcamp](https://www.lewagon.com/data-science-course) (Sep2022 Cohort)
+- 🌱  Graduated from the [Le Wagon Data Science bootcamp](https://www.lewagon.com/data-science-course) (Sep2022 Cohort) and [AMS & OpenClassrooms Data Analytics bootcamp](https://openclassrooms.com/en/paths/544-data-analyst-skills-bootcamp#path-tabs) (July2023 Cohort)
 - 🥅  2023 Goals: Maximise my learning, contribute to new projects
 - ⚡  Fun facts: I enjoy playing Badminton 🏸 playing different types of chess, mainly Chinese chess♟️ playing video games 🎮
 
