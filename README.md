@@ -6,7 +6,11 @@
 
 <br/>
 
-After graduating from the University of Glasgow with a degree in MSc Financial Technology, specializing in Data Analytics and AI & ML learning, I was able to develop many hard and soft skills as a consumer insight analyst for a little over half a year. I then took a new step in my career and graduated from the Data Science Bootcamp in December 2022. As of March 2023, I started my journey as a Data Engineering Consultant.
+I am a results-oriented data professional with a strong commitment to unlocking the potential of information. My academic journey began with a Bachelor's degree in Finance and culminated in an MSc in Financial Technology, where I delved deep into the realms of AI, machine learning, big data analytics, NLP, and textual analysis.
+
+<br/>
+
+Over the years, I have meticulously cultivated my expertise through intensive data science and analytics bootcamps and online courses such as Codecademy, acquiring proficiency in essential tools such as Python, SQL, Pandas, NumPy, and a diverse range of machine learning technologies. My career path has encompassed roles as a Data Engineering Consultant and Insights Analyst, where I have consistently made significant contributions to projects that drive data-driven decision-making.
 
 <br/>
 
