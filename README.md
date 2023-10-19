@@ -10,7 +10,7 @@ I am a results-oriented data professional with a strong commitment to unlocking 
 
 <br/>
 
-Over the years, I have meticulously cultivated my expertise through intensive data science and analytics bootcamps and online courses such as Codecademy, acquiring proficiency in essential tools such as Python, SQL, Pandas, NumPy, and a diverse range of machine learning technologies. My career path has encompassed roles as a Data Engineering Consultant and Insights Analyst, where I have consistently made significant contributions to projects that drive data-driven decision-making.
+Over the years, I have meticulously cultivated my expertise through intensive data science and analytics bootcamps and online courses such as Codecademy, acquiring proficiency in essential tools such as Python, SQL, Pandas, NumPy, and a diverse range of machine learning technologies. My career path has encompassed roles as a Data Engineering Consultant and Data Insights Analyst, where I have consistently made significant contributions to projects that drive data-driven decision-making.
 
 <br/>
 
